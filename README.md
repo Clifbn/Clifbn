@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Clif 👋
 
-<!--
-**Clifbn/Clifbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Graphic Designer & Front-End Developer** based in Esbjerg, Denmark.
 
-Here are some ideas to get you started:
+I work across visual design, UX, and front-end development — blending a print/graphic design background with Vue.js and Tailwind CSS. Currently gearing up for a Web Development top-up bachelor's, starting August 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I work with
+
+`Vue.js` · `Tailwind CSS` · `PHP` · `MySQL` · `Adobe Illustrator` · `Adobe InDesign` · `Adobe Premiere Pro` · `Figma`
+
+## 🚀 Featured Projects
+
+**Blue Water Shipping Redesign**
+Semester project redesigning digital communications for a B2B freight company. Led visual design and UX — delivered a Vue.js prototype, brochure, LinkedIn visuals, and service sheets, targeting key customer personas.
+
+**Cinema Booking Website**
+An online cinema ticket booking platform with a PHP/MySQL backend, designed for two user groups: customers booking tickets and staff managing showtimes, seats, and orders.
+
+## 📫 Get in touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/clifton-benjamin/)
+- 🎨 [Portfolio](https://portfolioclifton.web.app/)
+- ✉️ clifbenw@gmail.com
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clifbn&show_icons=true&theme=default)
