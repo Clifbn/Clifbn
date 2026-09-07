@@ -21,7 +21,3 @@ An online cinema ticket booking platform with a PHP/MySQL backend, designed for 
 - 💼 [LinkedIn](https://www.linkedin.com/in/clifton-benjamin/)
 - 🎨 [Portfolio](https://portfolioclifton.web.app/)
 - ✉️ clifbenw@gmail.com
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clifbn&show_icons=true&theme=default)
