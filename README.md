@@ -1,4 +1,4 @@
-# Hi, I'm Clif 👋
+# Hi I'm Clif 👋
 
 **Graphic Designer & Front-End Developer** based in Esbjerg, Denmark.
 
